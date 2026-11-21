@@ -1,9 +1,11 @@
 CACHE MANIFEST 
 
 CACHE: 
-../img.jpg
 ../style.css
 goldhen_2.4b18.14.bin
+
+NETWORK: 
+* 
 index.html
 int64.js
 kexploit.js
